@@ -1,0 +1,12 @@
+*.png
+*.iml
+.idea/
+*todo.md
+.DS_Store
+.hushlogin
+*.class
+*.code-workspace
+*__pycache__/
+*.pyc
+*.jar
+.swp
